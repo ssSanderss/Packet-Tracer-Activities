@@ -1,0 +1,3 @@
+This activity involves 2 internal networks, each consisting of a router and 2 switches receiving vlan data from a central VTP server. These internal networks receive dhcp information from their router- the internal networks are able to communicate with each other via a router on a stick implementation; the internal networks are able to communicate with the remote networks via interarea OSPF. 
+All configurations are included as well. 
+
